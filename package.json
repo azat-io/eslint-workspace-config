@@ -1,0 +1,10 @@
+{
+  "name": "eslint-workspace-config",
+  "scripts": {
+    "test": "eslint **/*.js"
+  },
+  "devDependencies": {
+    "@project/eslint-config-test": "workspace:^",
+    "eslint": "^8.39.0"
+  }
+}
