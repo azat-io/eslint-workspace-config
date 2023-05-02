@@ -1,3 +1,3 @@
-let config = require('@project/eslint-config-test')
+import config from '@project/eslint-config-test'
 
-module.exports = config
+export default config
